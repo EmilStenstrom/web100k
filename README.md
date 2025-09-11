@@ -5,11 +5,20 @@ A compact, no‑frills dataset of 100,000 real homepage HTML documents from popu
 ## Getting the Data
 The HTML files are published as GitHub Release assets in 10 zstd‑compressed tar batches:
 
-```
-web100k-batch-001.tar.zst
-...
-web100k-batch-010.tar.zst
-```
+Files (latest release links):
+
+1. [web100k-batch-001.tar.zst](https://github.com/EmilStenstrom/web100k/releases/latest/download/web100k-batch-001.tar.zst)
+2. [web100k-batch-002.tar.zst](https://github.com/EmilStenstrom/web100k/releases/latest/download/web100k-batch-002.tar.zst)
+3. [web100k-batch-003.tar.zst](https://github.com/EmilStenstrom/web100k/releases/latest/download/web100k-batch-003.tar.zst)
+4. [web100k-batch-004.tar.zst](https://github.com/EmilStenstrom/web100k/releases/latest/download/web100k-batch-004.tar.zst)
+5. [web100k-batch-005.tar.zst](https://github.com/EmilStenstrom/web100k/releases/latest/download/web100k-batch-005.tar.zst)
+6. [web100k-batch-006.tar.zst](https://github.com/EmilStenstrom/web100k/releases/latest/download/web100k-batch-006.tar.zst)
+7. [web100k-batch-007.tar.zst](https://github.com/EmilStenstrom/web100k/releases/latest/download/web100k-batch-007.tar.zst)
+8. [web100k-batch-008.tar.zst](https://github.com/EmilStenstrom/web100k/releases/latest/download/web100k-batch-008.tar.zst)
+9. [web100k-batch-009.tar.zst](https://github.com/EmilStenstrom/web100k/releases/latest/download/web100k-batch-009.tar.zst)
+10. [web100k-batch-010.tar.zst](https://github.com/EmilStenstrom/web100k/releases/latest/download/web100k-batch-010.tar.zst)
+
+You can also browse all assets: https://github.com/EmilStenstrom/web100k/releases
 
 Approx total compressed size: ~3.1 GB.
 
