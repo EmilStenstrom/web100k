@@ -2,13 +2,4 @@ downloaded
 .python-version
 run.csv
 *.pyc
-batches/web100k-batch-001.tar.zst
-batches/web100k-batch-002.tar.zst
-batches/web100k-batch-003.tar.zst
-batches/web100k-batch-004.tar.zst
-batches/web100k-batch-005.tar.zst
-batches/web100k-batch-006.tar.zst
-batches/web100k-batch-007.tar.zst
-batches/web100k-batch-008.tar.zst
-batches/web100k-batch-009.tar.zst
-batches/web100k-batch-010.tar.zst
+batches
