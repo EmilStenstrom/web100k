@@ -25,11 +25,11 @@ Approx total compressed size: ~3.1 GB.
 Download (examples):
 ```bash
 # Using GitHub CLI (recommended)
-gh release download -R <owner>/<repo> <tag> --pattern 'web100k-batch-*.tar.zst'
+gh release download -R EmilStenstrom/web100k main --pattern 'web100k-batch-*.tar.zst'
 
 # Or with curl (one file shown)
 curl -L -o web100k-batch-001.tar.zst \
-    https://github.com/<owner>/<repo>/releases/download/<tag>/web100k-batch-001.tar.zst
+    https://github.com/EmilStenstrom/web100k/releases/download/main/web100k-batch-001.tar.zst
 ```
 
 Extract all batches (creates a `downloaded/` directory with per‑domain `.html.zst` files):
