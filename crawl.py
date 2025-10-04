@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-live_homepages.py — Download decoded homepage HTML for a list of domains.
+crawl.py — Download decoded homepage HTML for a list of domains.
 Resumes automatically by skipping existing .html or .error files.
 Writes <domain>.error if domain repeatedly fails.
 
